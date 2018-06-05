@@ -1,7 +1,7 @@
 # algorithms-implementation
-I implement some of the basic algorithms in python that are typically taught in CS undergraduate programs.
+Some of the basic algorithms in python that are typically taught in CS undergraduate programs.
 
-The list of topics I stick to is from [CS 250 taught at EPFL](http://theory.epfl.ch/courses/algorithms/)
+Topics from [CS 250 taught at EPFL](http://theory.epfl.ch/courses/algorithms/)
 
 1. Sorting algorithms - Insertion Sort, Merge-Sort, Quick-Sort
 2. Maximum-sub-array problem
